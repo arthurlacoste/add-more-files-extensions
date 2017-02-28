@@ -652,6 +652,7 @@ $types = array(
   'ppt'    => 'application/vnd.ms-powerpoint',
   'odt'    => 'application/vnd.oasis.opendocument.text',
   'ods'    => 'application/vnd.oasis.opendocument.spreadsheet',
+  'srt'    => 'text/plain',
   'swf'    => 'application/x-shockwave-flash',
   'swf'    => 'application/x-shockwave-flash2-preview',
   'swf'    => 'application/futuresplash',

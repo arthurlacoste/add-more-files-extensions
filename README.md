@@ -6,7 +6,7 @@ Add more files extensions with a new field in your WordPress Media Settings.
 
 Add more files extensions with a new field in your Medias Settings. 
 
-**[You can check the dev page](http://irz.fr/add-more-files-extensions/)**
+You can [check the french dev page here](http://irz.fr/add-more-files-extensions/)
 
 You just need to insert your extensions in `Settings > Medias > Uploading Files` separate by a space (ex : 'exe pdf rar'), and the plugin does the rest.
 
